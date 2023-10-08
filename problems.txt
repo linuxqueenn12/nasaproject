@@ -1,0 +1,2 @@
+What is the API limit for NASA?
+Hourly Limit: 30 requests per IP address per hour. Daily Limit: 50 requests per IP address per day.
